@@ -24,6 +24,10 @@ button {
     width: 100%;
 }
 
+.fa--pad {
+    padding: 0 5px 0 8px;
+}
+
 .icon{
     color: #3EAFF6;
     border-radius: 50%;
